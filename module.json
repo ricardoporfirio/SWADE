@@ -6,9 +6,9 @@
     "version": "1.0.0",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion":"0.7.9",
-    "url":"",
-    "manifest":"https://github.com/ricardoporfirio/SWADE/blob/main/packs.zip",
-    "download":"",
+    "url":"https://github.com/ricardoporfirio/SWADE",
+    "manifest":"https://github.com/ricardoporfirio/SWADE/releases/download/swade-comps/module.json",
+    "download":"https://github.com/ricardoporfirio/SWADE/releases/download/swade-comps/swade-comps.zip",
     "packs": [
         {
           "name": "itens",
