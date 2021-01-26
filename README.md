@@ -1,2 +1,0 @@
-# SWADE
-Compêndio do SWADE
