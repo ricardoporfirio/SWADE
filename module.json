@@ -5,5 +5,13 @@
     "author": "Ricardo",
     "version": "1.0.0",
     "minimumCoreVersion": "0.7.9",
-    "compatibleCoreVersion":"0.7.9"
+    "compatibleCoreVersion":"0.7.9",
+    "packs": [
+        {
+          "name": "itens",
+          "label": "Magias",
+          "path": "packs/magias.db",
+          "entity": "Item",
+          "module": "SWADE"
+        }]
   }
