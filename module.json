@@ -1,9 +1,9 @@
-{
-    "name":"Compêndios para o SWADE",
-    "title":"Compêndios para o SWADE",
-    "description":"Compêndios para o SWADE",
-    "author":"Ricardo",
-    "version":"1.0.0",
-    "minimumCoreVersion":"0.7.9",
+{   
+    "name": "SWADE - COISAS",   
+    "title": "SWADE - COISAS",   
+    "description": "SWADE - COISAS",   
+    "author": "Ricardo",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion":"0.7.9"
-}
+  }
